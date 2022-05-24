@@ -1,0 +1,20 @@
+[
+    {
+      "id": 101,
+      "title": "Big Box",
+      "desc": "Box Box to fill all your spacing needs!",
+      "price": "99.99"
+    },
+    {
+      "id": 102,
+      "title": "Medium Box",
+      "desc": "Medium Box to fill all your spacing needs!",
+      "price": "59.99"
+    },
+    {
+      "id": 103,
+      "title": "Small Box",
+      "desc": "Small Box to fill all your spacing needs!",
+      "price": "39.99"
+    }
+  ]
